@@ -1,0 +1,12 @@
+package javaday3;
+
+public class Prob11 {
+	public static void main(String[] args) {
+		double far=95.60;
+		double cels;
+		
+		cels=(far-32)*(0.55);
+		System.out.println(cels);
+	}
+
+}
